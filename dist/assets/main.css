@@ -373,11 +373,16 @@ section.agenda {
     color: #ddd; }
   section.agenda .track .topic {
     font-size: 1.5em;
-    font-weight: 200; }
+    font-weight: 200;
+    padding-bottom: 10px; }
   section.agenda .track .speaker {
     font-size: 1em;
     font-style: italic;
     line-height: 2.5em; }
+    section.agenda .track .speaker p {
+      font-size: 15px;
+      line-height: 25px;
+      padding-left: 20px; }
 
 .tracks {
   overflow: hidden;
