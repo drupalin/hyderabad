@@ -379,7 +379,7 @@ section.agenda {
     font-size: 1em;
     font-style: italic;
     line-height: 2.5em; }
-    section.agenda .track .speaker p {
+    section.agenda .track .speaker li {
       font-size: 15px;
       line-height: 25px;
       padding-left: 20px; }
