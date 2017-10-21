@@ -547,6 +547,9 @@ section.agenda .duration-115m {
   height: 460px;
   max-height: auto; }
 
+.venue {
+  background: #FFF; }
+
 .speaker-block {
   box-sizing: border-box;
   float: left;
@@ -593,21 +596,20 @@ section.contact {
       font-size: .75em; }
     section.contact .content .details {
       color: #333;
-      width: 50%;
+      width: 30%;
       float: left;
       padding: 0 30px 20px 0;
       box-sizing: border-box; }
       @media all and (max-width: 768px) {
         section.contact .content .details {
           width: 100%; } }
-    section.contact .content .map iframe {
-      height: 380px;
-      width: 50%;
+    section.contact .content .twitter-tweets {
+      width: 70%;
       box-sizing: border-box;
       float: right;
       border: 3px solid #FFF; }
       @media (max-width: 768px) {
-        section.contact .content .map iframe {
+        section.contact .content .twitter-tweets {
           width: 100%;
           margin-top: 20px; } }
 
@@ -788,6 +790,9 @@ section.register .mktoForm {
       border-top: 1px dashed #b3b3b3;
       line-height: 2em;
       border-radius: 0 0 .25em .25em; }
+
+section.footer div.trademark {
+  float: left; }
 
 section.footer p {
   text-align: right; }
