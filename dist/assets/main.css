@@ -549,6 +549,12 @@ section.agenda .duration-115m {
 
 .venue {
   background: #FFF; }
+  .venue .map .venue_name {
+    width: 300px;
+    padding: 40px 20px 0 0;
+    float: left; }
+    .venue .map .venue_name h2, .venue .map .venue_name p {
+      text-align: center; }
 
 .speaker-block {
   box-sizing: border-box;
