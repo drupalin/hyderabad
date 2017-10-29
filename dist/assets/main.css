@@ -606,6 +606,8 @@ section.contact {
       float: left;
       padding: 0 30px 20px 0;
       box-sizing: border-box; }
+      section.contact .content .details p small {
+        font-size: 10px; }
       @media all and (max-width: 768px) {
         section.contact .content .details {
           width: 100%; } }
