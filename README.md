@@ -1,4 +1,4 @@
-Drupal Hyderabad Meetup Page
+Drupal Hyderabad Meetup site
 
 Steps to get your dev system setup.
 
